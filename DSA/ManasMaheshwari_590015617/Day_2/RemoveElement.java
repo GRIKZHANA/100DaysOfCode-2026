@@ -1,3 +1,7 @@
+// Day 2
+// Problem 27: Remove Element
+// Approach: Two Pointers (In-place Array Modification)
+
 class Solution {
     public int removeElement(int[] nums, int val) {
         int k = 0; // Pointer for the next valid position
